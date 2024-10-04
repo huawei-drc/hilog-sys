@@ -1,3 +1,7 @@
+# NOTICE
+
+**This crate has moved to https://github.com/openharmony-rs/ohos-sys and this repo is now archived.**
+
 # hilog-sys
 
 Rust bindings for the `HiLog` logging framework of OpenHarmony.
